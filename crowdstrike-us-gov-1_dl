@@ -1,0 +1,9 @@
+ts01-laggar-gcw.cloudsink.net
+sensorproxy-laggar-g-524628337.us-gov-west-1.elb.amazonaws.com
+lfodown01-laggar-gcw.cloudsink.net
+ELB-Laggar-P-LFO-DOWNLOAD-1265997121.us-gov-west-1.elb.amazonaws.com
+falcon.laggar.gcw.crowdstrike.com
+laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com
+api.laggar.gcw.crowdstrike.com
+firehose.laggar.gcw.crowdstrike.com
+falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com
